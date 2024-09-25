@@ -1,0 +1,39 @@
+/* Default light mode styles */
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .color-picker {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  /* Dark mode styles */
+  .dark-mode {
+    background-color: #121212;
+    color: white;
+  }
+  
+  .dark-mode .form-control {
+    background-color: #333;
+    color: white;
+  }
+  
+  .dark-mode button {
+    background-color: #444;
+    color: white;
+  }
+  
